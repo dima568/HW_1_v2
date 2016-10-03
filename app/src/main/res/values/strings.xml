@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="butt1_text">button 1</string>
+    <string name="butt2_text">button 2</string>
+    <string name="buttonSendNotif">Send notif</string>
+    <string name="buttBack_text">Back</string>
+    <string name="buttBackText_text">Back Text</string>
+    <string name="HelloWorld">Hello World!</string>
+</resources>
